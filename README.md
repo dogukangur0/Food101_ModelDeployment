@@ -20,4 +20,4 @@ The model was loaded using torchvision.models.efficientnet_b2(weights=...).
 The classifier head was replaced to fit 101 classes.
 
 The image below shows the model successfully predicting the correct food classes:
-![Sample Prediction](outputs/sample_prediction.PNG)
+![Sample Prediction](sample_prediction.PNG)
